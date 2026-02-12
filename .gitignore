@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+
+*.csv
+*.json
+*.xlsx
+*.zip
+
+
+.DS_Store
+Thumbs.db
