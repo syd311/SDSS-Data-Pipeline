@@ -1,7 +1,7 @@
 # SDSS Cosmological Data Pipeline
 **An Operational ETL Workflow for Hubble's Law Validation**
 
-![Hubble Diagram](./hubble_pipeline_output.png)
+![Hubble Diagram](./assets/hubble_pipeline_output.png)
 
 ## 1. Overview
 This repository contains a professional-grade **ETL (Extract, Transform, Load)** pipeline designed to process large-scale astronomical data from the **Sloan Digital Sky Survey (SDSS)**. The project demonstrates the ability to handle massive datasets (15M+ records) by implementing memory-efficient chunking and vectorized physics transformations.
